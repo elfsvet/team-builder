@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/team-builder/static/css/main.23b58d32.css",
+    "main.js": "/team-builder/static/js/main.e123887e.js",
+    "static/js/787.d3b30d3c.chunk.js": "/team-builder/static/js/787.d3b30d3c.chunk.js",
+    "static/media/maleProfile.jpeg": "/team-builder/static/media/maleProfile.657c4196488ead649e93.jpeg",
+    "static/media/femaleProfile.jpeg": "/team-builder/static/media/femaleProfile.48d77dc2519df08d5cc5.jpeg",
+    "index.html": "/team-builder/index.html",
+    "main.23b58d32.css.map": "/team-builder/static/css/main.23b58d32.css.map",
+    "main.e123887e.js.map": "/team-builder/static/js/main.e123887e.js.map",
+    "787.d3b30d3c.chunk.js.map": "/team-builder/static/js/787.d3b30d3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b58d32.css",
+    "static/js/main.e123887e.js"
+  ]
+}
